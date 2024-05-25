@@ -1,4 +1,4 @@
-import Header from "./components/Header/Header"
+import Header from "./components/Header/Header";
 import "./app.scss";
 import Footer from "./components/Footer/Footer";
 import AccContainer from "./components/AccContainer/AccContainer";
